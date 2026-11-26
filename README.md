@@ -1,0 +1,1 @@
+# toaster-error-generator
